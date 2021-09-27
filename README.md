@@ -4,10 +4,6 @@ This is the Cisco SD-WAN vManage Statistics Dashboard source code. We are able t
 Adapted from Eduard Schornig's work at https://github.com/schornig/viptela-sdwan-stats-collector
 
 
-| :exclamation:  External repository notice   |
-|:---------------------------|
-| This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
-
 ### High Level Design
 
 ![High Level Design](/IMAGES/design.png)
